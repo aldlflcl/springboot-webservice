@@ -4,3 +4,5 @@
 /out/
 /build/
 /.jpb/
+
+application-oauth.properties
